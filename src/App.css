@@ -201,3 +201,8 @@ input {
   top: 11rem;
   color: lightgray;
 }
+
+.link {
+  color: inherit;
+  text-decoration: none;
+}
